@@ -1,4 +1,6 @@
-I am a full stack developer graduate from Eduvos who is a result-driven person who can work well in a team but also thrive on my own. Going above and beyond expectations is something I pride myself in. Know when and how to follow instructions. However, I can work in a team, am not afraid to speak my mind, and will not hesitate to present ideas of my own when the time calls for it. As an individual that is constantly trying to discover different ways of navigating and manipulating my Software Development skills.
+I am a full stack developer graduate from Eduvos and currently enrolled in ALX Software Engineering program. I am a result-driven person who can work well in a team but also thrive on my own. Going above and beyond expectations is something I pride myself in. Know when and how to follow instructions. However, I can work in a team, am not afraid to speak my mind, and will not hesitate to present ideas of my own when the time calls for it. As an individual that is constantly trying to discover different ways of navigating and manipulating my Software Development skills.
+
+Currently enrolled in ALX Software Engineering .
 
 ********************************************************************************
 Building a bookselling application for students.
